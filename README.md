@@ -31,8 +31,7 @@ Click on the **Run** button in Visual Studio or use:
 dotnet run
 ```
 
-## Screenshots (if applicable)
-_Add images of the application interface_
+
 
 ## Future Improvements
 - Add real-time data updates
