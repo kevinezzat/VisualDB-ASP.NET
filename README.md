@@ -6,11 +6,11 @@ A web application built using **ASP.NET** for **data visualization** of database
 - Dynamic data visualization with charts and graphs
 - Database connectivity for fetching and displaying records
 - Filtering and sorting functionalities
-- RESTful API endpoints for data retrieval (if applicable)
+
 
 ## Tech Stack
 - **Backend:** ASP.NET Core / ASP.NET MVC
-- **Frontend:** HTML, CSS, JavaScript, Chart.js (or other visualization libraries)
+- **Frontend:** HTML, CSS, JavaScript, Chart.js
 - **Database:** SQL Server (Team127.sql)
 - **IDE:** Visual Studio
 
